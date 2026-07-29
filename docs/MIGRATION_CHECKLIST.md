@@ -1,0 +1,4 @@
+- [ ] README.md
+- [ ] INDEX.md
+- [ ] NAVIGATION.md
+- [ ] GLOSSARY.md
