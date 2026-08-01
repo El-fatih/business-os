@@ -3,7 +3,7 @@ document:
   id: AICTX-015
   title: Reporting & Dashboard
   version: 1.0.0
-  status: Draft
+  status: Locked
   owner: BusinessOS
   classification: AI Context Document
   priority: Critical
@@ -12,9 +12,9 @@ purpose:
   Mendefinisikan Reporting Engine dan Dashboard Engine BusinessOS sebagai pusat penyajian informasi bisnis, analitik, KPI, dan visualisasi data. Domain ini bertanggung jawab menyediakan insight bisnis tanpa menjadi Data Owner dari transaksi operasional.
 
 dependencies:
-  - 03_SYSTEM_ARCHITECTURE.md
-  - 05_DATABASE_DESIGN.md
-  - 06_AUTHENTICATION_AND_RBAC.md
+  - 003_SYSTEM_ARCHITECTURE.md
+  - 005_DATABASE_DESIGN.md
+  - 006_AUTHENTICATION_AND_RBAC.md
   - 011_MASTER_DATA_OWNERSHIP.md
   - 014_SETTINGS_CONFIGURATION.md
 

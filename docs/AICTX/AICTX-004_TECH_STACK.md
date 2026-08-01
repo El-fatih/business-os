@@ -3,7 +3,7 @@ document:
   id: AICTX-004
   title: Technology Stack
   version: 1.0.0
-  status: Draft
+  status: Locked
   owner: BusinessOS
   classification: AI Context Document
   priority: Critical
@@ -14,15 +14,15 @@ purpose:
   selama pengembangan MVP.
 
 dependencies:
-  - 01_PROJECT_CONTEXT.md
-  - 02_PRODUCT_REQUIREMENTS.md
-  - 03_SYSTEM_ARCHITECTURE.md
+  - 001_PROJECT_CONTEXT.md
+  - 002_PRODUCT_REQUIREMENTS.md
+  - 003_SYSTEM_ARCHITECTURE.md
 
 next_documents:
-  - 05_DATABASE_DESIGN.md
+  - 005_DATABASE_DESIGN.md
 ---
 
-# 04_TECH_STACK
+# 004_TECH_STACK
 
 # 1. Executive Summary
 

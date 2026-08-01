@@ -3,7 +3,7 @@ document:
   id: AICTX-003
   title: System Architecture
   version: 1.0.0
-  status: Draft
+  status: Locked
   owner: BusinessOS
   classification: AI Context Document
   priority: Critical
@@ -14,14 +14,14 @@ purpose:
   and which architectural principles are mandatory.
 
 dependencies:
-  - 01_PROJECT_CONTEXT.md
-  - 02_PRODUCT_REQUIREMENTS.md
+  - 001_PROJECT_CONTEXT.md
+  - 002_PRODUCT_REQUIREMENTS.md
 
 next_documents:
-  - 04_TECH_STACK.md
+  - 004_TECH_STACK.md
 ---
 
-# 03_SYSTEM_ARCHITECTURE
+# 003_SYSTEM_ARCHITECTURE
 
 ---
 

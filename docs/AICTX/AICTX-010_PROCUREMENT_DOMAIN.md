@@ -3,7 +3,7 @@ document:
   id: AICTX-010
   title: Procurement Domain
   version: 1.0.0
-  status: Draft
+  status: Locked
   owner: BusinessOS
   classification: AI Context Document
   priority: Critical
@@ -12,15 +12,15 @@ purpose:
   Mendefinisikan aturan bisnis, konsep domain, workflow pengadaan, dan integrasi Procurement Domain dengan Inventory Domain, Finance Domain, serta Supplier Master Data. Procurement Domain bertanggung jawab mengelola seluruh proses pengadaan barang dan jasa mulai dari permintaan hingga penyelesaian pembayaran.
 
 dependencies:
-  - 01_PROJECT_CONTEXT.md
-  - 02_PRODUCT_REQUIREMENTS.md
-  - 03_SYSTEM_ARCHITECTURE.md
-  - 04_TECH_STACK.md
-  - 05_DATABASE_DESIGN.md
-  - 06_AUTHENTICATION_AND_RBAC.md
-  - 07_FINANCE_MODULE.md
-  - 08_INVENTORY_DOMAIN.md
-  - 09_POS_DOMAIN.md
+  - 001_PROJECT_CONTEXT.md
+  - 002_PRODUCT_REQUIREMENTS.md
+  - 003_SYSTEM_ARCHITECTURE.md
+  - 004_TECH_STACK.md
+  - 005_DATABASE_DESIGN.md
+  - 006_AUTHENTICATION_AND_RBAC.md
+  - 007_FINANCE_MODULE.md
+  - 008_INVENTORY_DOMAIN.md
+  - 009_POS_DOMAIN.md
 
 next_documents:
   - 011_CRM_DOMAIN.md

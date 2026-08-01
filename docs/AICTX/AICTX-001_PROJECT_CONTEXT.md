@@ -3,7 +3,7 @@ document:
   id: AICTX-001
   title: Project Context
   version: 1.0.0
-  status: Approved
+  status: Locked
   owner: BusinessOS
   classification: AI Context Document
   priority: Critical
@@ -13,17 +13,17 @@ purpose:
   Every AI session must read this document before reading any other documentation.
 
 related_documents:
-  - 02_PRODUCT_REQUIREMENTS.md
-  - 03_SYSTEM_ARCHITECTURE.md
-  - 04_TECH_STACK.md
-  - 05_DATABASE_DESIGN.md
-  - 06_AUTHENTICATION_AND_RBAC.md
-  - 07_MODULE_SPECIFICATION.md
-  - 08_UI_UX_GUIDELINES.md
-  - 09_API_AND_BACKEND_RULES.md
-  - 10_AI_DEVELOPMENT_RULES.md
-  - 11_IMPLEMENTATION_PLAYBOOK.md
-  - 12_MASTER_PROMPT.md
+  - 002_PRODUCT_REQUIREMENTS.md
+  - 003_SYSTEM_ARCHITECTURE.md
+  - 004_TECH_STACK.md
+  - 005_DATABASE_DESIGN.md
+  - 006_AUTHENTICATION_AND_RBAC.md
+  - 007_MODULE_SPECIFICATION.md
+  - 008_UI_UX_GUIDELINES.md
+  - 009_API_AND_BACKEND_RULES.md
+  - 010_AI_DEVELOPMENT_RULES.md
+  - 011_IMPLEMENTATION_PLAYBOOK.md
+  - 012_MASTER_PROMPT.md
 ---
 
 # 01_PROJECT_CONTEXT

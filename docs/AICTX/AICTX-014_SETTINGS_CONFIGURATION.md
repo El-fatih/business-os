@@ -3,7 +3,7 @@ document:
   id: AICTX-014
   title: Settings & Configuration
   version: 1.0.0
-  status: Draft
+  status: Locked
   owner: BusinessOS
   classification: AI Context Document
   priority: Critical
@@ -12,10 +12,10 @@ purpose:
   Mendefinisikan pusat konfigurasi (Configuration Center) BusinessOS. Domain ini bertanggung jawab mengelola seluruh kebijakan bisnis (Business Policies), preferensi organisasi, serta parameter sistem yang dapat dikonfigurasi tanpa mengubah kode aplikasi.
 
 dependencies:
-  - 01_PROJECT_CONTEXT.md
-  - 03_SYSTEM_ARCHITECTURE.md
-  - 05_DATABASE_DESIGN.md
-  - 06_AUTHENTICATION_AND_RBAC.md
+  - 001_PROJECT_CONTEXT.md
+  - 003_SYSTEM_ARCHITECTURE.md
+  - 005_DATABASE_DESIGN.md
+  - 006_AUTHENTICATION_AND_RBAC.md
   - 011_MASTER_DATA_OWNERSHIP.md
   - 013_TREASURY_DOMAIN.md
 

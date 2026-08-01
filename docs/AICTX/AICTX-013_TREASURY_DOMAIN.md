@@ -3,7 +3,7 @@ document:
   id: AICTX-013
   title: Treasury Domain
   version: 1.0.0
-  status: Draft
+  status: Locked
   owner: BusinessOS
   classification: AI Context Document
   priority: High
@@ -12,10 +12,10 @@ purpose:
   Mendefinisikan aturan bisnis, ruang lingkup, transaksi, dan integrasi Treasury Domain sebagai pengelola kas dan rekening organisasi. Treasury Domain bertanggung jawab atas seluruh pergerakan dana aktual (cash movement) dan menjadi penghubung antara operasional bisnis dengan Finance Domain.
 
 dependencies:
-  - 03_SYSTEM_ARCHITECTURE.md
-  - 05_DATABASE_DESIGN.md
-  - 06_AUTHENTICATION_AND_RBAC.md
-  - 07_FINANCE_MODULE.md
+  - 003_SYSTEM_ARCHITECTURE.md
+  - 005_DATABASE_DESIGN.md
+  - 006_AUTHENTICATION_AND_RBAC.md
+  - 007_FINANCE_MODULE.md
   - 011_MASTER_DATA_OWNERSHIP.md
 
 next_documents:

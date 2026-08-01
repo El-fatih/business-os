@@ -3,7 +3,7 @@ document:
   id: AICTX-002
   title: Product Requirements
   version: 1.0.0
-  status: Draft
+  status: Locked
   owner: BusinessOS
   classification: AI Context Document
   priority: Critical
@@ -15,13 +15,13 @@ purpose:
   specified in later AI Context Documents.
 
 dependencies:
-  - 01_PROJECT_CONTEXT.md
+  - 001_PROJECT_CONTEXT.md
 
 next_documents:
-  - 03_SYSTEM_ARCHITECTURE.md
+  - 003_SYSTEM_ARCHITECTURE.md
 ---
 
-# 02_PRODUCT_REQUIREMENTS
+# 002_PRODUCT_REQUIREMENTS
 
 ---
 

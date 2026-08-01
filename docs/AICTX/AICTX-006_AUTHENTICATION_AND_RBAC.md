@@ -3,7 +3,7 @@ document:
   id: AICTX-006
   title: Authentication and RBAC
   version: 1.0.0
-  status: Draft
+  status: Locked
   owner: BusinessOS
   classification: AI Context Document
   priority: Critical
@@ -12,14 +12,14 @@ purpose:
   Mendefinisikan arsitektur autentikasi, otorisasi, serta Role-Based Access Control (RBAC) sebagai fondasi keamanan BusinessOS. Dokumen ini menjadi acuan implementasi Firebase Authentication, Authorization Service, dan pengelolaan hak akses pada seluruh modul BusinessOS.
 
 dependencies:
-  - 01_PROJECT_CONTEXT.md
-  - 02_PRODUCT_REQUIREMENTS.md
-  - 03_SYSTEM_ARCHITECTURE.md
-  - 04_TECH_STACK.md
-  - 05_DATABASE_DESIGN.md
+  - 001_PROJECT_CONTEXT.md
+  - 002_PRODUCT_REQUIREMENTS.md
+  - 003_SYSTEM_ARCHITECTURE.md
+  - 004_TECH_STACK.md
+  - 005_DATABASE_DESIGN.md
 
 next_documents:
-  - 07_FINANCE_MODULE.md
+  - 007_FINANCE_MODULE.md
 ---
 
 # 1. Executive Summary

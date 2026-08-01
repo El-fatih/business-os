@@ -3,7 +3,7 @@ document:
   id: AICTX-005
   title: Database Design
   version: 1.1.0
-  status: Draft
+  status: Locked
   owner: BusinessOS
   classification: AI Context Document
   priority: Critical
@@ -12,13 +12,13 @@ purpose:
   Mendefinisikan Business Data Model sebagai fondasi seluruh implementasi data BusinessOS. Dokumen ini menjadi sumber kebenaran utama (Single Source of Truth) untuk desain entity, relasi, aturan bisnis, strategi sinkronisasi, dan implementasi Local Database (Isar) maupun Cloud Database (Cloud Firestore).
 
 dependencies:
-  - 01_PROJECT_CONTEXT.md
-  - 02_PRODUCT_REQUIREMENTS.md
-  - 03_SYSTEM_ARCHITECTURE.md
-  - 04_TECH_STACK.md
+  - 001_PROJECT_CONTEXT.md
+  - 002_PRODUCT_REQUIREMENTS.md
+  - 003_SYSTEM_ARCHITECTURE.md
+  - 004_TECH_STACK.md
 
 next_documents:
-  - 06_AUTHENTICATION_AND_RBAC.md
+  - 006_AUTHENTICATION_AND_RBAC.md
 ---
 
 # 1. Executive Summary

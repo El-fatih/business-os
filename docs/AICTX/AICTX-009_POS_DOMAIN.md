@@ -3,7 +3,7 @@ document:
   id: AICTX-009
   title: POS Domain
   version: 1.0.0
-  status: loked
+  status: Locked
   owner: BusinessOS
   classification: AI Context Document
   priority: Critical
@@ -12,17 +12,17 @@ purpose:
   Mendefinisikan aturan bisnis, konsep domain, alur transaksi penjualan, serta integrasi Point of Sale (POS) dengan Inventory Domain, Finance Domain, dan Customer Domain. POS Domain bertanggung jawab mengorkestrasi proses penjualan dari awal hingga transaksi selesai.
 
 dependencies:
-  - 01_PROJECT_CONTEXT.md
-  - 02_PRODUCT_REQUIREMENTS.md
-  - 03_SYSTEM_ARCHITECTURE.md
-  - 04_TECH_STACK.md
-  - 05_DATABASE_DESIGN.md
-  - 06_AUTHENTICATION_AND_RBAC.md
-  - 07_FINANCE_MODULE.md
-  - 08_INVENTORY_DOMAIN.md
+  - 001_PROJECT_CONTEXT.md
+  - 002_PRODUCT_REQUIREMENTS.md
+  - 003_SYSTEM_ARCHITECTURE.md
+  - 004_TECH_STACK.md
+  - 005_DATABASE_DESIGN.md
+  - 006_AUTHENTICATION_AND_RBAC.md
+  - 007_FINANCE_MODULE.md
+  - 008_INVENTORY_DOMAIN.md
 
 next_documents:
-  - 10_PURCHASING_DOMAIN.md
+  - 010_PURCHASING_DOMAIN.md
 ---
 
 # 1. Executive Summary

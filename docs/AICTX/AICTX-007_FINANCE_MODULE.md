@@ -3,7 +3,7 @@ document:
   id: AICTX-007
   title: Finance Module
   version: 1.0.0
-  status: Draft
+  status: Locked
   owner: BusinessOS
   classification: AI Context Document
   priority: Critical
@@ -12,15 +12,15 @@ purpose:
   Mendefinisikan aturan bisnis (Business Rules) untuk seluruh proses keuangan BusinessOS. Dokumen ini menjadi acuan implementasi Domain Layer, Use Case, Accounting Engine, Repository, serta antarmuka pengguna pada modul keuangan.
 
 dependencies:
-  - 01_PROJECT_CONTEXT.md
-  - 02_PRODUCT_REQUIREMENTS.md
-  - 03_SYSTEM_ARCHITECTURE.md
-  - 04_TECH_STACK.md
-  - 05_DATABASE_DESIGN.md
-  - 06_AUTHENTICATION_AND_RBAC.md
+  - 001_PROJECT_CONTEXT.md
+  - 002_PRODUCT_REQUIREMENTS.md
+  - 003_SYSTEM_ARCHITECTURE.md
+  - 004_TECH_STACK.md
+  - 005_DATABASE_DESIGN.md
+  - 006_AUTHENTICATION_AND_RBAC.md
 
 next_documents:
-  - 08_INVENTORY_MODULE.md
+  - 008_INVENTORY_MODULE.md
 ---
 
 # 1. Executive Summary

@@ -3,7 +3,7 @@ document:
   id: AICTX-012
   title: CRM Domain
   version: 1.0.0
-  status: Draft
+  status: Locked
   owner: BusinessOS
   classification: AI Context Document
   priority: High
@@ -12,10 +12,10 @@ purpose:
   Mendefinisikan aturan bisnis, ruang lingkup, dan transaksi pada CRM Domain sebagai pusat pengelolaan hubungan bisnis (Business Relationship). CRM Domain bertanggung jawab mengelola Customer, Supplier, Contact, dan informasi hubungan bisnis lainnya sebagai Data Owner sesuai AICTX-011.
 
 dependencies:
-  - 01_PROJECT_CONTEXT.md
-  - 03_SYSTEM_ARCHITECTURE.md
-  - 05_DATABASE_DESIGN.md
-  - 06_AUTHENTICATION_AND_RBAC.md
+  - 001_PROJECT_CONTEXT.md
+  - 003_SYSTEM_ARCHITECTURE.md
+  - 005_DATABASE_DESIGN.md
+  - 006_AUTHENTICATION_AND_RBAC.md
   - 011_MASTER_DATA_OWNERSHIP.md
 
 next_documents:

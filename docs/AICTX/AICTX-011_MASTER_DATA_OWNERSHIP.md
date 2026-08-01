@@ -3,7 +3,7 @@ document:
   id: AICTX-011
   title: Master Data Ownership
   version: 1.0.0
-  status: Draft
+  status: Locked
   owner: BusinessOS
   classification: AI Context Document
   priority: Critical
@@ -12,10 +12,10 @@ purpose:
   Mendefinisikan kepemilikan (Data Owner) seluruh Master Data BusinessOS sebagai Single Source of Truth. Dokumen ini menjadi acuan bagi seluruh domain dalam membuat, mengubah, menghapus, dan menggunakan Master Data sehingga tidak terjadi duplikasi data maupun konflik kepemilikan.
 
 dependencies:
-  - 01_PROJECT_CONTEXT.md
-  - 02_PRODUCT_REQUIREMENTS.md
-  - 03_SYSTEM_ARCHITECTURE.md
-  - 05_DATABASE_DESIGN.md
+  - 001_PROJECT_CONTEXT.md
+  - 002_PRODUCT_REQUIREMENTS.md
+  - 003_SYSTEM_ARCHITECTURE.md
+  - 005_DATABASE_DESIGN.md
 
 next_documents:
   - 012_CRM_DOMAIN.md
